@@ -31,7 +31,6 @@ namespace Ejercicio_3
             imagen.Opacity = 0.3;
         }
 
-
         private void radioBotonRelleno_Checked(object sender, RoutedEventArgs e)
         {
             imagen.Stretch = Stretch.Fill;
